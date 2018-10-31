@@ -1,0 +1,6 @@
+open command prompt
+drag and drop the .exe file into command prompt
+press enter
+input mathematical function
+if your input is invalid you will get an error
+does not handle too large numbers
